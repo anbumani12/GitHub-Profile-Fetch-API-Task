@@ -1,6 +1,3 @@
-
-
-
 const userInput = document.getElementById("userName");
 const getDetailsButton = document.getElementById("getDetails");
 const profileInfo = document.getElementById("profileInfo");
